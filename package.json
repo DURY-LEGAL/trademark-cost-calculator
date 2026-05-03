@@ -1,0 +1,26 @@
+{
+  "name": "trademark-cost-calculator",
+  "version": "0.1.0",
+  "description": "Trademark cost calculator - Fee estimation for DPMA, EUIPO, WIPO filings. Powered by DURY LEGAL.",
+  "keywords": [
+    "trademark",
+    "cost",
+    "calculator",
+    "fees",
+    "dpma",
+    "euipo",
+    "legal-tech",
+    "dury-legal"
+  ],
+  "author": "DURY LEGAL Rechtsanwaelte <info@dury.de> (https://www.dury.de)",
+  "license": "MIT",
+  "homepage": "https://www.dury.de",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DURY-LEGAL/trademark-cost-calculator.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Tests coming soon'"
+  }
+}
